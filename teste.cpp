@@ -18,5 +18,5 @@ int main()
         num2 = num_next - num1;
         num1 = num_temp;
     }
-    return 0;
+    return ;
 }
