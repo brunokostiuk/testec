@@ -19,5 +19,5 @@ int main()
         num1 = num_temp;
 		print
     }
-    return ;
+    return 0;
 }
